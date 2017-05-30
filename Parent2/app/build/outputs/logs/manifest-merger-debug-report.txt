@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:2:1-75:12
+	package
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\5c2f70c6f7acffd3a27930b5891bbbea6ea2c282\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\449ef65e41d7b737eeb00105497cb874062c7e38\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\75d93c35480209f0f16c8d520b32a588ae1081c7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\3b5467504cc342123ce819baa769524106c59737\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.android\build-cache\0ef1fab2f79aaebdf0f880035f1dd8955d8e6ec7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\3343b33d0c84c4b98fb8d088e652c97822a32228\output\AndroidManifest.xml:20:5-44
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Admin\.android\build-cache\7e99c20b86892274a818ff8320100d0ba0356500\output\AndroidManifest.xml:3:5-72
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\Admin\.android\build-cache\9b8c043e64550574881d1b966da1d1adb2482030\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\7b5d2e094cc4746739e1596d106e4911ca877cab\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\a8a3ab805ce71f910d1e02717ce80a6da6996774\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\7af29dfb76905ee7e1da523538952f58f4792f97\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\9149ab2a40d0fdb5f7c7f9d37d54ad93d920ea5a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\f8db2469c8ef2651e359a9dbebef91961f8cdad7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\e1ae92fb99331bbf3e24f5b70f6d80ccadffcd1b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.android\build-cache\01ab9619c021f478023fafc40fd5b5a5e1ec1071\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\5c2f70c6f7acffd3a27930b5891bbbea6ea2c282\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:14:5-98
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:14:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:23:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:24:22-77
+application
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:26:5-73:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\5c2f70c6f7acffd3a27930b5891bbbea6ea2c282\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\449ef65e41d7b737eeb00105497cb874062c7e38\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\75d93c35480209f0f16c8d520b32a588ae1081c7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\3b5467504cc342123ce819baa769524106c59737\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\3343b33d0c84c4b98fb8d088e652c97822a32228\output\AndroidManifest.xml:26:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Admin\.android\build-cache\7e99c20b86892274a818ff8320100d0ba0356500\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\Admin\.android\build-cache\9b8c043e64550574881d1b966da1d1adb2482030\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\7b5d2e094cc4746739e1596d106e4911ca877cab\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\a8a3ab805ce71f910d1e02717ce80a6da6996774\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\7af29dfb76905ee7e1da523538952f58f4792f97\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\9149ab2a40d0fdb5f7c7f9d37d54ad93d920ea5a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\f8db2469c8ef2651e359a9dbebef91961f8cdad7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\e1ae92fb99331bbf3e24f5b70f6d80ccadffcd1b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.android\build-cache\01ab9619c021f478023fafc40fd5b5a5e1ec1071\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:30:9-31
+	android:allowBackup
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:28:9-35
+	android:icon
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:29:9-45
+	android:theme
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:31:9-40
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:27:9-42
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:32:9-34:71
+	android:value
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:34:13-68
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:33:13-58
+activity#info.androidhive.loginandregistration.activity.LoginActivity
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:36:9-46:20
+	android:label
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:38:13-34
+	android:launchMode
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:39:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:40:13-52
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:37:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:44:27-74
+activity#info.androidhive.loginandregistration.activity.RegisterActivity
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:47:9-51:55
+	android:label
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:49:13-41
+	android:launchMode
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:50:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:51:13-52
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:48:13-54
+activity#info.androidhive.loginandregistration.activity.InfosActivity
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:52:9-56:55
+	android:label
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:54:13-42
+	android:launchMode
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:55:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:56:13-52
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:53:13-51
+activity#info.androidhive.loginandregistration.activity.MainActivity
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:57:9-60:46
+	android:label
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:59:13-36
+	android:launchMode
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:60:13-43
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:58:13-50
+activity#info.androidhive.loginandregistration.activity.MapsActivity
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:61:9-65:20
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:61:19-56
+intent-filter#android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:62:13-64:29
+activity#info.androidhive.loginandregistration.activity.RegisterFilsActivity
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:66:9-67
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:66:19-64
+activity#info.androidhive.loginandregistration.activity.GetSmsActivity
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:67:9-61
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:67:19-58
+service#info.androidhive.loginandregistration.activity.SmsNotificationService
+ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:69:9-72:47
+	android:enabled
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:71:13-35
+	android:exported
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:72:13-36
+	android:name
+		ADDED from C:\Users\Admin\Desktop\android projet\final\Parent2\Parent2\app\src\main\AndroidManifest.xml:70:13-60
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\5c2f70c6f7acffd3a27930b5891bbbea6ea2c282\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\449ef65e41d7b737eeb00105497cb874062c7e38\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\75d93c35480209f0f16c8d520b32a588ae1081c7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\3b5467504cc342123ce819baa769524106c59737\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.android\build-cache\0ef1fab2f79aaebdf0f880035f1dd8955d8e6ec7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\3343b33d0c84c4b98fb8d088e652c97822a32228\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\7b5d2e094cc4746739e1596d106e4911ca877cab\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\a8a3ab805ce71f910d1e02717ce80a6da6996774\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\7af29dfb76905ee7e1da523538952f58f4792f97\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\9149ab2a40d0fdb5f7c7f9d37d54ad93d920ea5a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\f8db2469c8ef2651e359a9dbebef91961f8cdad7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\e1ae92fb99331bbf3e24f5b70f6d80ccadffcd1b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\5c2f70c6f7acffd3a27930b5891bbbea6ea2c282\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\5c2f70c6f7acffd3a27930b5891bbbea6ea2c282\output\AndroidManifest.xml:26:9-47
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services:6.5.87] C:\Users\Admin\.android\build-cache\9b8c043e64550574881d1b966da1d1adb2482030\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services:6.5.87] C:\Users\Admin\.android\build-cache\9b8c043e64550574881d1b966da1d1adb2482030\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services:6.5.87] C:\Users\Admin\.android\build-cache\9b8c043e64550574881d1b966da1d1adb2482030\output\AndroidManifest.xml:22:13-58

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Parental</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="btn_RecInfos">Charge Infos</string>
+    <string name="btn_Contacts">Charge Contacts</string>
+    <string name="name">Fullname</string>
+    <string name="btn_Confirmer">Choose child</string>
+    <string name="btn_Appels">Calls</string>
+    <string name="btn_RegisterFils">Register child</string>
+    <string name="btn_coordonnees">GPS</string>
+    <string name="btn_contacts">Contacts</string>
+    <string name="btn_appel">Calls</string>
+    <string name="btn_sms">SMS</string>
+
+</resources>
